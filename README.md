@@ -63,7 +63,7 @@ src/
 
 ## Class Diagram
 
-![Class Diagram](docs/class.diagram.drawio.png)
+![Class Diagram](docs/classDiagram.png)
 
 The diagram shows the full relationship set: inheritance (`Person` → `Student`/`Teacher`), interface realization (`Reportable`), associations (`Student`/`Teacher` ↔ `Subject`, `Teacher` ↔ `Student`), and dependencies (`Student`/`Teacher` → `GradeCalculator`).
 
